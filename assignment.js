@@ -1,9 +1,8 @@
 
 
-
 //kilometerToMeter
 
-function kiloToMeter(kilo){
+function kilometerToMeter(kilo){
     if(kilo <= 0){
         return("Please input valid number");
     }
